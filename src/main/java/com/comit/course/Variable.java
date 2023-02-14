@@ -42,6 +42,7 @@ public class Variable {
 	  		System.out.println("not equal");
 	  	}
 	  	// System.out.println((int)g);
+	  	System.out.println("just modified for github");
 	    
 	}
 }
